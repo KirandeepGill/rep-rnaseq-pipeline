@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Raw sequencing data
+data/raw/
+
+# Trimmed FASTQ files
+data/trimmed/
+
+# Reference genome and index files
+reference/
+
+# Alignment files
+*.sam
+*.bam
+*.bai
+
+# Temporary and log files
+*.log
